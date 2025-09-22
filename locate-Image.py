@@ -26,3 +26,4 @@ pyautogui.click()
 time.sleep(3)
 
 pyautogui.moveTo(delete, duration=1)
+pyautogui.click()
